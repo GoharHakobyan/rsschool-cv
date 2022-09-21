@@ -1,1 +1,2 @@
-https://GoharHakobyan.github.io/rsschool-cv/cv
+https://GoharHakobyan.github.io/rsschool-cv/
+
